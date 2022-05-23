@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MapField.qml</file>
+        <file>MapTile.qml</file>
+        <file>images/mapLayout.png</file>
+        <file>save1.xml</file>
+        <file>images/building-construction1.png</file>
+        <file>images/building-construction2.png</file>
+        <file>images/building-construction3.png</file>
+        <file>images/building-construction4.png</file>
+        <file>images/castle_lvl1.png</file>
+        <file>images/castle_lvl2.png</file>
+        <file>images/castle_lvl3.png</file>
+        <file>images/coins.png</file>
+        <file>images/lumberMill.png</file>
+        <file>images/mine-unused.png</file>
+        <file>images/stables.png</file>
+        <file>images/wall_ne.png</file>
+        <file>images/wall_nw.png</file>
+        <file>images/wall_se.png</file>
+        <file>images/wall_straight.png</file>
+        <file>images/wall_sw.png</file>
+        <file>images/wood.png</file>
+        <file>images/mine-used.png</file>
+        <file>BuildMenu.qml</file>
+        <file>MainMenu.qml</file>
+        <file>images/back-arrow.png</file>
+        <file>images/farm.png</file>
+        <file>images/upperBar.png</file>
+        <file>images/upperBar2.jpg</file>
+        <file>images/worker.png</file>
+        <file>images/mainTitle.png</file>
+        <file>images/minus.png</file>
+        <file>images/plus.html</file>
+        <file>images/plus.png</file>
+        <file>PeasantMenu.qml</file>
+        <file>CastleInterface.qml</file>
+        <file>SaveAs.qml</file>
+        <file>Open.qml</file>
+        <file>About.qml</file>
+    </qresource>
+</RCC>

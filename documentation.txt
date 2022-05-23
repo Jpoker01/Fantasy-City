@@ -1,0 +1,45 @@
+Indexes of buildings:
+    Prazdne pole - nemoznost stavby: -1
+    hovered / exited
+
+    Prazdne pole - moznost stavby: 0
+    hovered / exited
+
+    Hrad lvl1: 1
+    castlelvl1 / castlelvl1_hovered
+    castlelvl1.png
+
+    Hrad lvl2: 2
+    castlelvl2 / castlelvl2_hovered
+    castlelvl2.png
+
+
+    Hrad lvl3: 3
+    castlelvl3 / castlelvl3_hovered
+    castlelvl3.png
+
+    Lumber Mill: 4
+    lumberMill / lumberMill_hovered
+    lumberMill.png
+
+    Farm: 5
+    farm / farm_hovered
+    farm.png
+
+    Stables: 6
+    stables / stables_hovered
+    stables.png
+
+    Mine - unused: 10
+    mine-unused / mine-unused_hovered
+    mineunused.png
+
+    Mine - used: 11
+    mine-used / mine-used_hovered
+    mineused.png
+
+    Building Construction: 20
+    building-construction / building-construction_hovered
+    building-construction2.png
+
+
